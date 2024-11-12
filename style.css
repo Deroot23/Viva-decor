@@ -858,7 +858,7 @@ input[type="text"] {
     }
 }
 
-/* Responsive Styles for Mobile Phones (Up to 480px) */
+/* to 480px) */
 @media (max-width: 480px) {
     .viva-head img {
         width: 60px;
